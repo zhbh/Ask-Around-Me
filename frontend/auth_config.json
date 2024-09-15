@@ -1,0 +1,5 @@
+{
+  "domain": "dev-123.us.auth0.com",
+  "clientId": "client id",
+  "audience": "https://auth0-jwt-authorizer"
+}
